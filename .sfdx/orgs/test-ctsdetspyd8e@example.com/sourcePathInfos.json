@@ -1,0 +1,837 @@
+[
+    [
+        "/Users/aaiu/Repo/aura-map/force-app",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1527739113276,
+            "changeTime": 1527739113276,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1527739113276,
+            "changeTime": 1527739113276,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1528411918861,
+            "changeTime": 1528411918861,
+            "contentHash": "43e6b99ba7a3ba704294de48b650ccd3eb798605"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1527739331244,
+            "changeTime": 1527739331244,
+            "contentHash": "ab78c128998720070ccbb46ee9437ace18e8f022",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/aura/relationshipMap",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/aura/relationshipMap",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1527784874525,
+            "changeTime": 1527739331247,
+            "contentHash": "40ff8cbe74979cffdecd26e1a09b6c1cb4870865",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/aura/relationshipMap/relationshipMap.auradoc",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/aura/relationshipMap/relationshipMap.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1527739331247,
+            "changeTime": 1527739331247,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/aura/relationshipMap/relationshipMap.cmp",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/aura/relationshipMap/relationshipMap.cmp",
+            "isDirectory": false,
+            "size": 261,
+            "modifiedTime": 1527784874525,
+            "changeTime": 1527784874525,
+            "contentHash": "0c8240d8aaaf1f4bee1024fe1222dae5e32febd7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/aura/relationshipMap/relationshipMap.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/aura/relationshipMap/relationshipMap.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1527784874521,
+            "changeTime": 1527784874521,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/aura/relationshipMap/relationshipMap.css",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/aura/relationshipMap/relationshipMap.css",
+            "isDirectory": false,
+            "size": 140,
+            "modifiedTime": 1527806378239,
+            "changeTime": 1527806378239,
+            "contentHash": "f36dc34b621a6e200b5d47956cceea84dff3e098",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/aura/relationshipMap/relationshipMap.design",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/aura/relationshipMap/relationshipMap.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1527739331247,
+            "changeTime": 1527739331247,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/aura/relationshipMap/relationshipMap.svg",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/aura/relationshipMap/relationshipMap.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1527739331246,
+            "changeTime": 1527739331246,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/aura/relationshipMap/relationshipMapController.js",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/aura/relationshipMap/relationshipMapController.js",
+            "isDirectory": false,
+            "size": 64,
+            "modifiedTime": 1527784874525,
+            "changeTime": 1527784874525,
+            "contentHash": "65072628efe5f0288eba365d51e9e7c918b02897",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/aura/relationshipMap/relationshipMapHelper.js",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/aura/relationshipMap/relationshipMapHelper.js",
+            "isDirectory": false,
+            "size": 44,
+            "modifiedTime": 1527784874524,
+            "changeTime": 1527784874524,
+            "contentHash": "fa0ec188d1d404a7d907cd49c9dd8e2ade86c99d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/aura/relationshipMap/relationshipMapRenderer.js",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/aura/relationshipMap/relationshipMapRenderer.js",
+            "isDirectory": false,
+            "size": 49,
+            "modifiedTime": 1527784874523,
+            "changeTime": 1527784874523,
+            "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1527739428562,
+            "changeTime": 1527739428562,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp.resource-meta.xml",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp.resource-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1527740512931,
+            "changeTime": 1527740512931,
+            "contentHash": "daa89debd48598fd3138118af8ead370dbb2c259",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/asset-manifest.json",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/asset-manifest.json",
+            "isDirectory": false,
+            "size": 1467,
+            "modifiedTime": 1527806279833,
+            "changeTime": 1527806296168,
+            "contentHash": "4951cbaf3a2abde67ffcb4c56d6c344b72b09a03",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/favicon.ico",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/favicon.ico",
+            "isDirectory": false,
+            "size": 3870,
+            "modifiedTime": 1527806266327,
+            "changeTime": 1527740513017,
+            "contentHash": "1120538c77ad1f28a89243b4b53fe2ac16cc3bc6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/index.html",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/index.html",
+            "isDirectory": false,
+            "size": 469,
+            "modifiedTime": 1527806279833,
+            "changeTime": 1527806296175,
+            "contentHash": "61737fba824875d5ccc9e349c3d402d551a8fa29",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/manifest.json",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/manifest.json",
+            "isDirectory": false,
+            "size": 317,
+            "modifiedTime": 1527806266334,
+            "changeTime": 1527740513017,
+            "contentHash": "21c42782b633240e91fe0016e7eccccae7312ac2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/service-worker.js",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/service-worker.js",
+            "isDirectory": false,
+            "size": 4418,
+            "modifiedTime": 1527806279969,
+            "changeTime": 1527806296183,
+            "contentHash": "4adda87375030c88746bccc1a578559ede1c48f0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/media/SalesforceSans-Bold.1a99b4b5.woff",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/media/SalesforceSans-Bold.1a99b4b5.woff",
+            "isDirectory": false,
+            "size": 34980,
+            "modifiedTime": 1527806279852,
+            "changeTime": 1527740513022,
+            "contentHash": "d8a560eb14382eab56e73c9391e81d8f5c4c502f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/media/SalesforceSans-Bold.68a71533.woff2",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/media/SalesforceSans-Bold.68a71533.woff2",
+            "isDirectory": false,
+            "size": 27648,
+            "modifiedTime": 1527806279852,
+            "changeTime": 1527740513023,
+            "contentHash": "48bd2035de99b4477d6a2624bd52fca362394105",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/media/SalesforceSans-BoldItalic.41ae6b36.woff",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/media/SalesforceSans-BoldItalic.41ae6b36.woff",
+            "isDirectory": false,
+            "size": 35984,
+            "modifiedTime": 1527806279852,
+            "changeTime": 1527740513023,
+            "contentHash": "ad235bf14c35899d9a8a22dce8b7c6c5f587b7fb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/media/SalesforceSans-BoldItalic.dba3843e.woff2",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/media/SalesforceSans-BoldItalic.dba3843e.woff2",
+            "isDirectory": false,
+            "size": 28456,
+            "modifiedTime": 1527806279852,
+            "changeTime": 1527740513023,
+            "contentHash": "20c3706f9f0986b5e00e840c8902196b3d693f57",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/media/SalesforceSans-Italic.882515c4.woff",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/media/SalesforceSans-Italic.882515c4.woff",
+            "isDirectory": false,
+            "size": 35996,
+            "modifiedTime": 1527806279852,
+            "changeTime": 1527740513024,
+            "contentHash": "e06c52d36b44e340f6e67a6c54205501c3262164",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/media/SalesforceSans-Italic.afa7774c.woff2",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/media/SalesforceSans-Italic.afa7774c.woff2",
+            "isDirectory": false,
+            "size": 28344,
+            "modifiedTime": 1527806279852,
+            "changeTime": 1527740513024,
+            "contentHash": "f68b970baf81b04ede146804b1daafa83ff146dd",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/media/SalesforceSans-Light.2edec878.woff",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/media/SalesforceSans-Light.2edec878.woff",
+            "isDirectory": false,
+            "size": 35040,
+            "modifiedTime": 1527806279851,
+            "changeTime": 1527740513025,
+            "contentHash": "fdddbbc3a4fda722d8979e9004ec2c1f515469a7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/media/SalesforceSans-Light.c9505072.woff2",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/media/SalesforceSans-Light.c9505072.woff2",
+            "isDirectory": false,
+            "size": 27732,
+            "modifiedTime": 1527806279834,
+            "changeTime": 1527740513025,
+            "contentHash": "7e99094cabd1c0f8979bacbf3b717cbeb89f0e1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/media/SalesforceSans-LightItalic.676a9c30.woff2",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/media/SalesforceSans-LightItalic.676a9c30.woff2",
+            "isDirectory": false,
+            "size": 28480,
+            "modifiedTime": 1527806279851,
+            "changeTime": 1527740513025,
+            "contentHash": "a791a9e04b6050694388280a380d09bcbb2791e3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/media/SalesforceSans-LightItalic.8080e8bc.woff",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/media/SalesforceSans-LightItalic.8080e8bc.woff",
+            "isDirectory": false,
+            "size": 36208,
+            "modifiedTime": 1527806279851,
+            "changeTime": 1527740513026,
+            "contentHash": "3c7167dd2b59ba8cfb32757c5b170834d4ce3d7e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/media/SalesforceSans-Regular.401b32dd.woff",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/media/SalesforceSans-Regular.401b32dd.woff",
+            "isDirectory": false,
+            "size": 34888,
+            "modifiedTime": 1527806279852,
+            "changeTime": 1527740513026,
+            "contentHash": "d696f64f2f2a8938bbb2578cce1b6bc03963cbf0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/media/SalesforceSans-Regular.aa41afda.woff2",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/media/SalesforceSans-Regular.aa41afda.woff2",
+            "isDirectory": false,
+            "size": 27684,
+            "modifiedTime": 1527806279851,
+            "changeTime": 1527740513027,
+            "contentHash": "03d934b119785f6130103507ecff57eb19f05be9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/media/symbols.8f6def0a.svg",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/media/symbols.8f6def0a.svg",
+            "isDirectory": false,
+            "size": 107431,
+            "modifiedTime": 1527806279852,
+            "changeTime": 1527740513027,
+            "contentHash": "b28ea3955eb0eed672f76a18a608dc58a7318a19",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/media/symbols.bac8c2f0.svg",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/media/symbols.bac8c2f0.svg",
+            "isDirectory": false,
+            "size": 155638,
+            "modifiedTime": 1527806279852,
+            "changeTime": 1527740513027,
+            "contentHash": "5f02801dc52b452f3287cc4066007521314ed83f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/flexipages/Relationship_Map_UtilityBar.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/flexipages/Relationship_Map_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 390,
+            "modifiedTime": 1527740513037,
+            "changeTime": 1527740513037,
+            "contentHash": "8dcf342932dc585066321a4a038ce01797f34f2b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/applications/Relationship_Map.app-meta.xml",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/applications/Relationship_Map.app-meta.xml",
+            "isDirectory": false,
+            "size": 722,
+            "modifiedTime": 1527784637926,
+            "changeTime": 1527784637926,
+            "contentHash": "80ff20e198201790cd6f217e65f3e4022341fdaa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 17869,
+            "modifiedTime": 1527784637961,
+            "changeTime": 1527784637961,
+            "contentHash": "a7eb2c6823b3efd110e9109d8375348ba661c499",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1527740513016,
+            "changeTime": 1527740513016,
+            "contentHash": "8a8a6074d47efdc2b2fc29bc940ac1bd3425c4b8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1527806296189,
+            "changeTime": 1527740513018,
+            "contentHash": "5eddffeb54b31d23ac0ed609c758a1f87035dbad",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/css",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/css",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1527806279851,
+            "changeTime": 1527806296203,
+            "contentHash": "7bf1031f49de177236ae88a57065cf9cb186bfa4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1527806279833,
+            "changeTime": 1527740513022,
+            "contentHash": "0c5ba585bdcad64f41175c5e6d9699b9a7590fe7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/js",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/js",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1527806279845,
+            "changeTime": 1527805957234,
+            "contentHash": "94bcfa267212d40229276559d299036c74b6e256",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/media",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/media",
+            "isDirectory": true,
+            "size": 512,
+            "modifiedTime": 1527806279840,
+            "changeTime": 1527740513027,
+            "contentHash": "4e6d176961b452fcaae95a09b4c919f0927e99ab",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/flexipages",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1527784637919,
+            "changeTime": 1527784637919,
+            "contentHash": "2305545af78e0582d09bc4e11b2006fa9f4a14c1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/applications",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/applications",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1527784637923,
+            "changeTime": 1527784637923,
+            "contentHash": "20697c79091d27786c33769ee74e8f4cd1acafaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1528411918850,
+            "changeTime": 1528411918850,
+            "contentHash": "0d30d6aec5c6d0d6405344aafad9e40a34b61e1d"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/flexipages/Relationship_Map.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/flexipages/Relationship_Map.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 489,
+            "modifiedTime": 1527784637919,
+            "changeTime": 1527784637919,
+            "contentHash": "9ecaa628f23a13b9d0e8e8298eaa9c538f92334a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/tabs/Relationship_Map.tab-meta.xml",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/tabs/Relationship_Map.tab-meta.xml",
+            "isDirectory": false,
+            "size": 332,
+            "modifiedTime": 1527784637921,
+            "changeTime": 1527784637921,
+            "contentHash": "f29982c0dd9ff49a2aba3c70c7b7b67b31b77ca7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/applications/standard__LightningSales.app-meta.xml",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/applications/standard__LightningSales.app-meta.xml",
+            "isDirectory": false,
+            "size": 917,
+            "modifiedTime": 1527784637923,
+            "changeTime": 1527784637923,
+            "contentHash": "902a3307928db636184935a47255c68f8b1946b7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/profiles/Custom: Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/profiles/Custom: Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5152,
+            "modifiedTime": 1527784637930,
+            "changeTime": 1527784637930,
+            "contentHash": "f7c5a19de6f3356081da391ae281004c992cc4bd",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/profiles/Custom: Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/profiles/Custom: Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4814,
+            "modifiedTime": 1527784637967,
+            "changeTime": 1527784637967,
+            "contentHash": "51813db4ae6728bf0659fec78542a465e4302994",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/profiles/Custom: Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/profiles/Custom: Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4814,
+            "modifiedTime": 1527784637970,
+            "changeTime": 1527784637970,
+            "contentHash": "51813db4ae6728bf0659fec78542a465e4302994",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/tabs",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/tabs",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1527784637921,
+            "changeTime": 1527784637921,
+            "contentHash": "e72e92ecad148214516828927bd8eaebf4062e50",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/js/main.d9b103d9.js",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/js/main.d9b103d9.js",
+            "isDirectory": false,
+            "size": 145579,
+            "modifiedTime": 1527806279840,
+            "changeTime": 1527805957234,
+            "contentHash": "fc3601c46be10b3886227d99b459c2d0eecd87df",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/js/main.d9b103d9.js.map",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/js/main.d9b103d9.js.map",
+            "isDirectory": false,
+            "size": 612550,
+            "modifiedTime": 1527806279853,
+            "changeTime": 1527806296204,
+            "contentHash": "85657c603e5a720af259ddd9924d2b317b8efc74",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/css/main.bc1f8817.css",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/css/main.bc1f8817.css",
+            "isDirectory": false,
+            "size": 517832,
+            "modifiedTime": 1527806279845,
+            "changeTime": 1527806296202,
+            "contentHash": "100663e0e799e011d0d3d1b8f30a683fcc7080cb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/css/main.bc1f8817.css.map",
+        {
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/staticresources/mapApp/static/css/main.bc1f8817.css.map",
+            "isDirectory": false,
+            "size": 948291,
+            "modifiedTime": 1527806279853,
+            "changeTime": 1527806296202,
+            "contentHash": "17ffa81d3a2dbbd6b808649da64a7fc2f75a16ee",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/profiles/User Research.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/profiles/User Research.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6821,
+            "modifiedTime": 1528411918851,
+            "changeTime": 1528411918851,
+            "contentHash": "840f4bc3695f1a0a8adbd91c34e700ed67ddb364"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/permissionsets/standard_permission.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/permissionsets/standard_permission.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 216,
+            "modifiedTime": 1528411918856,
+            "changeTime": 1528411918856,
+            "contentHash": "bcc65201dcfccf5bfdcccba599083af6cd5d0b27"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/settings/Security.settings-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/settings/Security.settings-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2517,
+            "modifiedTime": 1528411918865,
+            "changeTime": 1528411918865,
+            "contentHash": "bfa41e9dbe81932591a273e91c9d60bad38046f8"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1528411918856,
+            "changeTime": 1528411918856,
+            "contentHash": "8a5bfe6a9229fef1856b876854cd94b09642acee"
+        }
+    ],
+    [
+        "/Users/aaiu/Repo/aura-map/force-app/main/default/settings",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aaiu/Repo/aura-map/force-app/main/default/settings",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1528411918865,
+            "changeTime": 1528411918865,
+            "contentHash": "e364e4d3c503804e0ca6d6bb92ab9cc0ceac2327"
+        }
+    ]
+]

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <formFactors>Large</formFactors>
+    <label>Relationship Map</label>
+    <navType>Console</navType>
+    <tabs>standard-Account</tabs>
+    <tabs>Relationship_Map</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Relationship_Map_UtilityBar</utilityBar>
+    <workspaceConfig>
+        <mappings>
+            <tab>Relationship_Map</tab>
+        </mappings>
+        <mappings>
+            <tab>standard-Account</tab>
+        </mappings>
+    </workspaceConfig>
+</CustomApplication>
